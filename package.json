@@ -1,5 +1,5 @@
 {
-  "name": "@tradekix/mcp-server",
+  "name": "tradekix-mcp-server",
   "version": "0.1.0",
   "description": "TradeKix MCP server — financial market data for Claude, Cursor, Windsurf, and other MCP-compatible AI tools",
   "main": "dist/index.js",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eucalyptusdecoded/tradekix-mcp-server"
+    "url": "https://github.com/TradekixAI/tradekix-mcp-server"
   },
   "homepage": "https://www.tradekix.ai",
   "dependencies": {

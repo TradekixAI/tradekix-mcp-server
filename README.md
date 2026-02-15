@@ -78,7 +78,7 @@ MCP signups automatically get the Developer tier — 100 calls/day free.
 
 - **Website:** [tradekix.ai](https://www.tradekix.ai)
 - **Agent Docs:** [tradekix.ai/ai-agent-access](https://www.tradekix.ai/ai-agent-access)
-- **GitHub:** [github.com/eucalyptusdecoded/tradekix-mcp-server](https://github.com/eucalyptusdecoded/tradekix-mcp-server)
+- **GitHub:** [github.com/TradekixAI/tradekix-mcp-server](https://github.com/TradekixAI/tradekix-mcp-server)
 - **GPT Store:** [TradeKix GPT](https://chatgpt.com/g/g-698ed20af78c81919b089a51e0dc2cdf-tradekix-financial-data-for-ai)
 
 ## License
