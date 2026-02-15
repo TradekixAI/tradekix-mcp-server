@@ -1,0 +1,41 @@
+{
+  "name": "@tradekix/mcp-server",
+  "version": "0.1.0",
+  "description": "TradeKix MCP server — financial market data for Claude, Cursor, Windsurf, and other MCP-compatible AI tools",
+  "main": "dist/index.js",
+  "bin": {
+    "tradekix-mcp-server": "dist/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "mcp",
+    "tradekix",
+    "finance",
+    "stocks",
+    "market-data",
+    "claude",
+    "cursor",
+    "ai-agents",
+    "congressional-trades"
+  ],
+  "author": "TradeKix <hello@tradekix.ai>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eucalyptusdecoded/tradekix-mcp-server"
+  },
+  "homepage": "https://www.tradekix.ai",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "tsx": "^4.7.0",
+    "@types/node": "^20.0.0"
+  }
+}
